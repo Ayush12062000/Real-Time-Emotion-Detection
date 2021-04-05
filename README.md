@@ -7,8 +7,10 @@
 3. Apply ML and DL Models to predict their emotions
 
 
-Note: Kindly do not push any changes to Main or Master Branch. Create a New Branch and push all the changes to that branch
-Don't forget to create an issue before making a PR
+Note: Kindly do not push any changes to Main or Master Branch. Create a New Branch and push all the changes to that branch.
+
+Don't forget to create an issue before making a PR.
+
 👉 Repo Link : https://github.com/Ayush12062000/Real-Time-Emotion-Detection.git
 
 ## Table of contents
