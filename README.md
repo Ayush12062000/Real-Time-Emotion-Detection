@@ -2,9 +2,10 @@
 #### Identifying Facial Emotions by detecting faces in real time using web cam.
 
 ## Aim of the Project
-> To identify different faces in the frame
-> Identify their expressions
-> Apply ML and DL Models to predict their emotions
+1. To identify different faces in the frame
+2. Identify their expressions
+3. Apply ML and DL Models to predict their emotions
+
 
 Note: Kindly do not push any changes to Main or Master Branch. Create a New Branch and push all the changes to that branch
 Don't forget to create an issue before making a PR
