@@ -1,5 +1,5 @@
 # Real-Time-Emotion-Detection
-#### Identifying Facial Emotions by detecting faces in real time using web cam.
+> Identifying Facial Emotions by detecting faces in real time using web cam.
 
 ## Aim of the Project
 1. To identify different faces in the frame
