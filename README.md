@@ -40,14 +40,14 @@ used Opencv to detect emotions in Real Time.
 ## Setup
 1. First Clone the repository.
 2. Create and activate the virtual environment for the project.
-	'''	
+	```	
 	$ python -m venv Project_emotion
 	$ Project_emotion\Scripts\activate.bat
-	'''
+	```
 3. Install the required packages using requirements.txt inside the environemnt using pip.
-	'''
+	```
 	$ pip install -r requirements.txt
-	'''
+	```
 4. run the Emotion_Detection_1.ipynb in google colab (make sure GPU/TPU is enabled).
 5. then, run Real_Time_Detection.py on your local machine.
 
