@@ -55,3 +55,8 @@ used Opencv to detect emotions in Real Time.
 
 Refer this for detailed explaination:
 👁 https://valueml.com/emotion-detection-using-cnn-in-python-using-keras/
+
+
+https://user-images.githubusercontent.com/57597700/147909920-b701715d-3a8e-4895-9e59-006bd02a2f7a.mp4
+
+
